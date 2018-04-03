@@ -1,0 +1,21 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "Testing Node.js with the use of NPM ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "test"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "JAMES LOVE",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta.3"
+  }
+}
